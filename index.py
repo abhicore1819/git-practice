@@ -3,3 +3,6 @@ def CreateChange():
     print("this chnage gonna create merge conflict !")
     # this is main branch
 CreateChange()
+
+def Pullreq():
+    print("Creating the pull request !")
